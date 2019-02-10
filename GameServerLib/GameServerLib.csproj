@@ -269,6 +269,7 @@
     <Compile Include="Items\ItemData.cs" />
     <Compile Include="Items\Shop.cs" />
     <Compile Include="Logging\LoggerProvider.cs" />
+    <Compile Include="Maps\HowlingAbyss.cs" />
     <Compile Include="Maps\Map.cs" />
     <Compile Include="ObjectManager.cs" />
     <Compile Include="Packets\NetworkIdManager.cs" />
